@@ -23,6 +23,9 @@ Icon
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
 
+# JetBrains IDE 설정 폴더 무시
+.idea/
+
 # Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
